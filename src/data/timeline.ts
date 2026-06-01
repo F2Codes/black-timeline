@@ -126,6 +126,28 @@ const timelineItems: TimelineItem[] = [
                 "href": "https://www.isna.ir/news/95042715473/"
             }
         ]
+    },
+    {
+        "date": "سال 1403",
+        "title": "فیلتر کردن دیسکورد",
+        "minister": "عیسی‌ زارع‌پور",
+        "description": "حدود ساعت ۸ صبحِ یکم اردیبهشت‌ماه سال ۱۴۰۳ بود که خبر اختلال در پلتفرم دیسکورد عمومی شد؛ پلتفرمی که کاربران       بسیار زیادی داشت و جامعه‌ی گیمرها تا حد زیادی به آن وابسته بود.\nهرچند فیلتر شدن دیسکورد در آن زمان موضوعی دور از انتظار نبود، چرا که چند سال قبل‌تر، در سال ۱۳۹۸، اپلیکیشن        دیسکورد از تمامی اپ‌استورهای ایرانی (مایکت، کافه‌بازار و …) حذف شد و در تیرماه سال ۱۴۰۱ نیز اتفاقی مشابه افتاده       بود. با این حال، می‌توان یکم اردیبهشت‌ماه سال ۱۴۰۳ را، با دستور مستقیم دادستانی، تیر خلاص به فیلترینگ دیسکورد        دانست.",
+        "sources": [
+            {
+                "title": "https://www.zoomit.ir/tech-iran/419896-discord-is-banned/",
+                "href": "https://www.zoomit.ir/tech-iran/419896-discord-is-banned/"
+            },
+            {
+                "title": "https://discordapp.ir/docs/discord-censorship-in-iran",
+                "href": "https://discordapp.ir/docs/discord-censorship-in-iran"
+            }
+        ]
+    },
+    {
+        "date": "",
+        "title": "",
+        "minister": null,
+        "description": null
     }
 ];
 
